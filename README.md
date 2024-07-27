@@ -4,7 +4,7 @@ This project is a frontend application that fetches information from an API and 
 
 ## Hosted Project Link
 
-To see the project live: https://shoonya-life.vercel.app/
+To see the project live: https://shoonya-life-seven.vercel.app/
 
 ## Installation
 
